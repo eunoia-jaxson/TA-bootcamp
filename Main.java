@@ -136,7 +136,7 @@ class InputHandler {
                 COUNT += 1;
             } finally {
                 if (COUNT == 3) {
-                    System.out.println("3번 이상 잘못된 입력을 하셨습니다. 게임을 종료합니다.");
+                    System.out.println("연속 3번 잘못된 입력을 하셨습니다. 게임을 종료합니다.");
                     System.exit(0);
                 }
             }
