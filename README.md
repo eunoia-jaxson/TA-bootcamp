@@ -2,4 +2,4 @@
 
 24-2 TA 부트캠프 실습 repository
 
-github 다 배움 ㅅㄱ
+github 배우는 중.
